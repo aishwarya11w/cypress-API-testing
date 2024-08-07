@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "ajv": "^8.17.1",
-    "cypress": "^13.13.2"
+    "cypress": "^13.13.2",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "mocha": "^10.7.0"
